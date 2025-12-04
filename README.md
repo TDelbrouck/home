@@ -17,8 +17,7 @@ Today, my main interests are modern management approaches for information securi
 
 Beyond my day‑to‑day work, I enjoy discussing the broader societal and economic impact of security with politicians, lawmakers, and academics, with the goal of contributing to an informed and ongoing public dialogue about complex security topics.
   
-I use this repository as a **personal business card** – it doesn’t host code, just a quick way to see who I am and how to reach me.  
-  
+ 
 
 ---  
   
