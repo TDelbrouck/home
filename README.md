@@ -39,5 +39,5 @@ Beyond my day‑to‑day work, I enjoy discussing the broader societal and econo
   
 ## 📚 Publications
 
-- **[Mythos: The Most Boring Revolution in Cybersecurity? (AI Journal)]([https://www.linkedin.com/in/delbrouck/](https://aijourn.com/mythos-the-most-boring-revolution-in-cybersecurity/))**
-- **[Interview (Unite AI)]([https://www.linkedin.com/in/delbrouck/](https://www.unite.ai/thorsten-delbrouck-group-cso-at-gieseckedevrient-interview-series/))**
+- **[Mythos: The Most Boring Revolution in Cybersecurity? (AI Journal)](https://aijourn.com/mythos-the-most-boring-revolution-in-cybersecurity/)**
+- **[Interview (Unite AI)](https://www.unite.ai/thorsten-delbrouck-group-cso-at-gieseckedevrient-interview-series/)**
